@@ -1,8 +1,8 @@
-## 🔍 GitHub Profile Detective
+# 🔍 GitHub Profile Detective
 
 A modern and responsive GitHub Profile Search application built using React.js, Tailwind CSS, and GitHub REST API. This project allows users to search any GitHub username and instantly view profile details along with repositories.
 
-# 🚀 Features
+## 🚀 Features
 
 1. 🔎 Search any GitHub user by username
 2. 👤 View GitHub profile details (Name, Bio, Join Date, Avatar)
@@ -16,7 +16,7 @@ A modern and responsive GitHub Profile Search application built using React.js, 
 10. 📱 Fully responsive (mobile-friendly UI)
 11. ⚡ Fast & clean UI with error handling
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 1. React.js
 2. Tailwind CSS
